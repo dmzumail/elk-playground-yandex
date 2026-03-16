@@ -23,7 +23,7 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/ВАШ_ЮЗЕР/elk-playground-yandex.git
+git clone https://github.com/dmzumail/elk-playground-yandex.git
 cd elk-playground-yandex
 
 # Установите Docker (если не установлен)
